@@ -1,6 +1,8 @@
 # Simple sail routing optimization
 The optimal route planning for sailboats is a challenging task - the boat speed depends on wind and course, which change while sailing the route. This repository collects simple tools to explore optimal navigation using waypoints, real weather data from GRIB files and real polar charts of boats. 
 
+![](animation.gif)
+
 ## Requirements 
 Python and Jupyter Notebook with numpy, scipy, matplotlib, pypro, xarray
 
