@@ -8,7 +8,10 @@ Python and Jupyter Notebook with numpy, scipy, matplotlib, pypro, xarray
 
 ## References
 **Polar charts:** \
-The polars of boats (´boats.json´) are sourced from https://github.com/jieter/orc-data. 
+The polars of boats (´boats.json´) are sourced from https://github.com/jieter/orc-data.
+
+**GRIB files**
+https://marine.meteoconsult.co.uk/marine-services/grib-files
 
 **Article on optimization in Matlab:** \
 https://www.linkedin.com/pulse/sailboat-route-optimisation-algorithm-pedro-mendes-costa/
